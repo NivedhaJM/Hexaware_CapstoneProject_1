@@ -1,1 +1,735 @@
-
+ProductKey,ProductID,ProductName,Category,SubCategory,Brand,CostPrice
+1,P200,Titan Watches Model-199,Fashion,Watches,Titan,46537.2
+2,P201,Puma Shirts Model-261,Fashion,Shirts,Puma,22060.27
+3,P202,Rolex Watches Model-196,Fashion,Watches,Rolex,19152.22
+4,P203,HomeCentre Decor Model-600,Home,Decor,HomeCentre,5729.83
+5,P204,Nike Shoes Model-348,Fashion,Shoes,Nike,57832.53
+6,P205,Haldiram's Snacks Model-379,Groceries,Snacks,Haldiram's,59133.05
+7,P206,Rolex Watches Model-475,Fashion,Watches,Rolex,78121.95
+8,P207,Coca-Cola Beverages Model-191,Groceries,UNKNOWN,Coca-Cola,79886.89
+9,P208,Tata Tea Beverages Model-745,Groceries,Beverages,Tata Tea,67246.64
+10,P209,LG TV Model-997,Electronics,TV,LG,13723.19
+11,P210,Lay's Snacks Model-281,Groceries,Snacks,Lay's,30393.41
+12,P211,Rolex Watches Model-973,Fashion,Watches,Rolex,69884.55
+13,P212,Nike Shirts Model-653,Fashion,Shirts,Nike,436.76
+14,P213,HP Laptops Model-959,Electronics,Laptops,HP,67276.54
+15,P214,Sony TV Model-860,Electronics,TV,Sony,86347.43
+16,P215,Rolex Watches Model-685,Fashion,Watches,Rolex,28698.28
+17,P216,Whirlpool Kitchen Model-578,Home,UNKNOWN,Whirlpool,21718.98
+18,P217,Prestige Kitchen Model-471,Home,Kitchen,Prestige,43585.01
+19,P218,Nike Shirts Model-729,Fashion,Shirts,Nike,65961.28
+20,P219,Kissan Packaged Foods Model-585,Groceries,Packaged Foods,Kissan,94668.26
+21,P220,Panasonic TV Model-131,Electronics,TV,Panasonic,99999.0
+22,P221,Coca-Cola Beverages Model-374,Groceries,Beverages,Coca-Cola,21914.43
+23,P222,Adidas Shoes Model-894,Fashion,Shoes,Adidas,40296.34
+24,P224,Rolex Watches Model-549,Fashion,Watches,Rolex,43592.16
+25,P225,Puma Shoes Model-977,Fashion,Shoes,Puma,40173.84
+26,P226,Kissan Packaged Foods Model-913,Groceries,Packaged Foods,Kissan,25750.04
+27,P227,Puma Shoes Model-189,Fashion,Shoes,Puma,97555.62
+28,P228,Prestige Kitchen Model-249,Home,Kitchen,Prestige,5463.44
+29,P229,Motorola Smartphones Model-856,Electronics,Smartphones,UNKNOWN,40704.28
+30,P230,Tata Tea Beverages Model-150,Groceries,Beverages,Tata Tea,40722.97
+31,P231,Prestige Kitchen Model-356,Home,Kitchen,Prestige,78644.44
+32,P232,Haldiram's Snacks Model-822,Groceries,Snacks,Haldiram's,91211.02
+33,P233,Puma Shoes Model-508,Fashion,Shoes,UNKNOWN,56857.85
+34,P234,Samsung Smartphones Model-463,Electronics,Smartphones,Samsung,38450.96
+35,P235,Titan Watches Model-320,Fashion,Watches,Titan,7445.08
+36,P236,Puma Shirts Model-608,Fashion,Shirts,Puma,30202.27
+37,P237,Puma Shirts Model-365,Fashion,Shirts,Puma,2131.2
+38,P238,Haldiram's Snacks Model-784,Groceries,Snacks,Haldiram's,2842.75
+39,P239,Lay's Snacks Model-795,Groceries,Snacks,Lay's,44192.95
+40,P240,Puma Shoes Model-160,Fashion,Shoes,Puma,99999.0
+41,P241,Puma Shirts Model-763,Fashion,Shirts,Puma,54831.18
+42,P242,Puma Shirts Model-506,Fashion,Shirts,Puma,99999.0
+43,P243,Haldiram's Snacks Model-541,Groceries,Snacks,Haldiram's,98054.36
+44,P244,Kissan Packaged Foods Model-749,Groceries,Packaged Foods,Kissan,1552.53
+45,P245,Coca-Cola Beverages Model-499,Groceries,Beverages,Coca-Cola,268.21
+46,P246,Ikea Furniture Model-266,Home,Furniture,Ikea,62396.77
+47,P248,Westelm Furniture Model-611,Home,Furniture,Westelm,66118.8
+48,P249,Prestige Kitchen Model-690,Home,Kitchen,Prestige,34658.1
+49,P250,Ikea Furniture Model-994,Home,Furniture,Ikea,65161.91
+50,P251,Rolex Watches Model-385,Fashion,Watches,Rolex,33513.7
+51,P252,Samsung TV Model-365,Electronics,TV,Samsung,28140.56
+52,P253,Kellogg's Packaged Foods Model-355,Groceries,Packaged Foods,Kellogg's,76118.64
+53,P254,Cadbury Snacks Model-338,Groceries,Snacks,Cadbury,34001.86
+54,P255,Westelm Furniture Model-574,Home,Furniture,Westelm,88067.94
+55,P256,Puma Shirts Model-608,Fashion,Shirts,Puma,52014.91
+56,P257,Ikea Furniture Model-618,Home,Furniture,Ikea,47384.47
+57,P258,Kellogg's Packaged Foods Model-765,Groceries,Packaged Foods,Kellogg's,5473.85
+58,P259,LG TV Model-755,Electronics,TV,LG,97271.48
+59,P260,HP Laptops Model-992,Electronics,Laptops,HP,32688.8
+60,P262,Titan Watches Model-660,Fashion,Watches,Titan,79983.82
+61,P263,Adidas Shoes Model-240,Fashion,Shoes,Adidas,92679.87
+62,P264,Motorola Smartphones Model-326,Electronics,Smartphones,Motorola,5230.71
+63,P265,iMac Laptops Model-463,Electronics,Laptops,iMac,32522.43
+64,P266,Ikea Furniture Model-863,Home,Furniture,Ikea,69501.39
+65,P267,Lenovo Laptops Model-807,Electronics,Laptops,Lenovo,82589.2
+66,P268,HomeCentre Decor Model-154,Home,Decor,HomeCentre,21053.35
+67,P270,Xiaomi Smartphones Model-246,Electronics,Smartphones,Xiaomi,76734.22
+68,P271,Lay's Snacks Model-815,Groceries,Snacks,Lay's,11533.67
+69,P272,Titan Watches Model-613,Fashion,Watches,Titan,93827.42
+70,P274,Ikea Furniture Model-665,Home,Furniture,Ikea,76832.86
+71,P275,HP Laptops Model-553,Electronics,Laptops,HP,99999.0
+72,P276,Puma Shoes Model-246,Fashion,Shoes,Puma,70429.34
+73,P277,Prestige Kitchen Model-632,Home,Kitchen,Prestige,15667.27
+74,P278,Westelm Furniture Model-356,Home,Furniture,Westelm,14230.14
+75,P279,Cadbury Snacks Model-990,Groceries,Snacks,Cadbury,34922.37
+76,P280,Nike Shoes Model-943,Fashion,Shoes,Nike,2634.9
+77,P281,Pepsi Beverages Model-375,Groceries,Beverages,Pepsi,8345.13
+78,P282,Lay's Snacks Model-237,Groceries,Snacks,Lay's,31677.24
+79,P283,Panasonic TV Model-551,Electronics,TV,Panasonic,86315.03
+80,P284,US Polo Shirts Model-432,Fashion,Shirts,US Polo,19487.78
+81,P285,Westelm Furniture Model-592,Home,Furniture,Westelm,99055.37
+82,P286,Ikea Furniture Model-439,Home,Furniture,Ikea,29788.19
+83,P287,Prestige Kitchen Model-789,Home,Kitchen,Prestige,98149.97
+84,P289,HomeCentre Decor Model-587,Home,Decor,HomeCentre,27280.6
+85,P290,Pepsi Beverages Model-622,Groceries,Beverages,Pepsi,34551.91
+86,P291,Westelm Furniture Model-477,Home,Furniture,Westelm,73881.76
+87,P292,Kissan Packaged Foods Model-805,Groceries,Packaged Foods,Kissan,99999.0
+88,P293,Puma Shoes Model-250,Fashion,Shoes,Puma,58337.98
+89,P294,Prestige Kitchen Model-779,Home,Kitchen,Prestige,83496.6
+90,P295,Prestige Kitchen Model-590,Home,Kitchen,Prestige,57605.49
+91,P296,HomeCentre Decor Model-820,Home,Decor,HomeCentre,63027.99
+92,P297,Rolex Watches Model-382,Fashion,UNKNOWN,Rolex,43386.52
+93,P298,Westelm Furniture Model-783,Home,Furniture,Westelm,22361.56
+94,P299,Kellogg's Packaged Foods Model-838,Groceries,UNKNOWN,Kellogg's,86897.61
+95,P300,Pepsi Beverages Model-360,Groceries,Beverages,Pepsi,87428.47
+96,P301,US Polo Shirts Model-517,Fashion,Shirts,US Polo,5731.3
+97,P302,Titan Watches Model-205,Fashion,Watches,Titan,57289.9
+98,P303,LG TV Model-144,Electronics,TV,LG,37560.57
+99,P304,Haldiram's Snacks Model-493,Groceries,Snacks,Haldiram's,70682.82
+100,P306,Casio Watches Model-106,Fashion,Watches,Casio,8915.98
+101,P307,Maggi Packaged Foods Model-708,Groceries,Packaged Foods,Maggi,81001.7
+102,P308,Casio Watches Model-979,Fashion,Watches,Casio,99322.5
+103,P309,Pepsi Beverages Model-124,Groceries,Beverages,Pepsi,82743.0
+104,P310,LG TV Model-381,Electronics,TV,LG,20773.7
+105,P311,Apple Smartphones Model-669,Electronics,Smartphones,Apple,23501.43
+106,P312,Haldiram's Snacks Model-423,Groceries,Snacks,Haldiram's,71381.28
+107,P313,Cadbury Snacks Model-843,Groceries,Snacks,Cadbury,91563.47
+108,P314,Lenovo Laptops Model-303,Electronics,Laptops,Lenovo,95376.98
+109,P315,Coca-Cola Beverages Model-488,Groceries,Beverages,Coca-Cola,71656.4
+110,P316,Ikea Furniture Model-603,Home,Furniture,Ikea,2142.47
+111,P317,Godrej Kitchen Model-198,Home,Kitchen,Godrej,98644.92
+112,P319,iMac Laptops Model-349,Electronics,Laptops,UNKNOWN,52789.76
+113,P320,Ikea Furniture Model-171,Home,Furniture,Ikea,8336.67
+114,P321,Prestige Kitchen Model-524,Home,Kitchen,Prestige,82290.45
+115,P322,Samsung Smartphones Model-641,Electronics,Smartphones,Samsung,92404.3
+116,P323,Prestige Kitchen Model-116,Home,Kitchen,Prestige,54027.78
+117,P324,Titan Watches Model-834,Fashion,Watches,Titan,32679.08
+118,P325,Westelm Furniture Model-281,Home,Furniture,Westelm,11404.25
+119,P326,Maggi Packaged Foods Model-716,Groceries,Packaged Foods,Maggi,91505.1
+120,P327,LG TV Model-129,Electronics,TV,LG,98908.08
+121,P328,Godrej Kitchen Model-478,Home,Kitchen,Godrej,45385.1
+122,P330,Samsung Smartphones Model-175,Electronics,Smartphones,Samsung,52450.81
+123,P331,HomeCentre Decor Model-167,Home,UNKNOWN,HomeCentre,2962.68
+124,P332,Prestige Kitchen Model-117,Home,Kitchen,Prestige,10327.94
+125,P333,HomeCentre Decor Model-648,Home,Decor,HomeCentre,32338.57
+126,P334,HomeCentre Decor Model-529,Home,Decor,HomeCentre,13202.45
+127,P335,Westelm Furniture Model-290,Home,Furniture,Westelm,42947.35
+128,P336,Reebok Shoes Model-235,Fashion,Shoes,Reebok,93931.28
+129,P337,Titan Watches Model-850,Fashion,Watches,Titan,91604.29
+130,P338,Nike Shirts Model-500,Fashion,Shirts,Nike,7440.01
+131,P339,HomeCentre Decor Model-888,Home,UNKNOWN,HomeCentre,34329.54
+132,P340,Lenovo Laptops Model-104,Electronics,Laptops,Lenovo,11786.97
+133,P341,iMac Laptops Model-693,Electronics,Laptops,iMac,28729.33
+134,P342,Kissan Packaged Foods Model-196,Groceries,Packaged Foods,Kissan,19666.39
+135,P343,Lay's Snacks Model-645,Groceries,Snacks,Lay's,18099.99
+136,P345,Reebok Shoes Model-191,Fashion,Shoes,Reebok,29197.45
+137,P346,Levis Shirts Model-649,Fashion,Shirts,Levis,49374.3
+138,P348,Westelm Furniture Model-902,Home,Furniture,Westelm,56026.48
+139,P349,Ikea Furniture Model-169,Home,Furniture,Ikea,1757.78
+140,P350,Ikea Furniture Model-887,Home,Furniture,Ikea,48688.49
+141,P351,Xiaomi Smartphones Model-114,Electronics,Smartphones,Xiaomi,19736.81
+142,P353,Westelm Furniture Model-539,Home,Furniture,Westelm,33813.33
+143,P354,Kellogg's Packaged Foods Model-104,Groceries,Packaged Foods,Kellogg's,55862.29
+144,P356,Levis Shirts Model-232,Fashion,Shirts,Levis,19537.53
+145,P357,iMac Laptops Model-504,Electronics,Laptops,iMac,29178.71
+146,P358,Nike Shirts Model-886,Fashion,Shirts,Nike,832.04
+147,P359,Nike Shoes Model-727,Fashion,Shoes,Nike,79520.37
+148,P361,Whirlpool Kitchen Model-213,Home,Kitchen,Whirlpool,78896.49
+149,P362,Titan Watches Model-474,Fashion,Watches,Titan,33464.61
+150,P363,Westelm Furniture Model-274,Home,Furniture,Westelm,14843.47
+151,P364,Westelm Furniture Model-207,Home,Furniture,Westelm,71987.81
+152,P365,Maggi Packaged Foods Model-432,Groceries,Packaged Foods,Maggi,8316.15
+153,P366,Cadbury Snacks Model-135,Groceries,Snacks,Cadbury,57021.44
+154,P367,HP Laptops Model-176,Electronics,Laptops,HP,70845.66
+155,P368,Godrej Kitchen Model-576,Home,Kitchen,Godrej,11909.55
+156,P369,Ikea Furniture Model-786,Home,Furniture,Ikea,4697.11
+157,P370,OnePlus Smartphones Model-629,Electronics,Smartphones,OnePlus,1156.53
+158,P371,Kellogg's Packaged Foods Model-792,Groceries,Packaged Foods,Kellogg's,52478.08
+159,P372,Samsung TV Model-108,Electronics,TV,Samsung,87359.78
+160,P373,Nike Shoes Model-880,Fashion,Shoes,Nike,97404.37
+161,P374,Prestige Kitchen Model-101,Home,Kitchen,Prestige,68492.18
+162,P375,Westelm Furniture Model-270,Home,Furniture,Westelm,64115.72
+163,P376,HomeCentre Decor Model-629,Home,Decor,HomeCentre,70218.64
+164,P377,Apple Smartphones Model-743,Electronics,Smartphones,Apple,76468.23
+165,P378,Kellogg's Packaged Foods Model-591,Groceries,UNKNOWN,Kellogg's,35481.1
+166,P379,Rolex Watches Model-814,Fashion,Watches,Rolex,35365.84
+167,P380,Maggi Packaged Foods Model-773,Groceries,Packaged Foods,Maggi,51698.83
+168,P381,Reebok Shoes Model-787,Fashion,Shoes,Reebok,46212.92
+169,P383,Prestige Kitchen Model-595,Home,Kitchen,Prestige,57561.82
+170,P384,Reebok Shoes Model-372,Fashion,Shoes,Reebok,7974.76
+171,P385,HomeCentre Decor Model-567,Home,UNKNOWN,HomeCentre,6059.31
+172,P386,Tata Tea Beverages Model-701,Groceries,Beverages,Tata Tea,53170.65
+173,P387,Dell Laptops Model-459,Electronics,Laptops,Dell,32578.11
+174,P388,Xiaomi Smartphones Model-733,Electronics,Smartphones,Xiaomi,17101.69
+175,P389,Titan Watches Model-767,Fashion,Watches,Titan,50467.47
+176,P390,Titan Watches Model-641,Fashion,Watches,Titan,90975.6
+177,P391,Haldiram's Snacks Model-300,Groceries,Snacks,Haldiram's,99999.0
+178,P392,Tata Tea Beverages Model-650,Groceries,Beverages,Tata Tea,81501.17
+179,P393,Rolex Watches Model-498,Fashion,UNKNOWN,Rolex,69042.91
+180,P394,HP Laptops Model-616,Electronics,Laptops,HP,76169.04
+181,P395,Ikea Furniture Model-317,Home,Furniture,Ikea,24845.41
+182,P398,Motorola Smartphones Model-546,Electronics,Smartphones,Motorola,56103.29
+183,P399,Westelm Furniture Model-277,Home,Furniture,Westelm,34483.87
+184,P400,HomeCentre Decor Model-830,Home,Decor,HomeCentre,98868.89
+185,P401,HomeCentre Decor Model-672,Home,Decor,HomeCentre,77595.47
+186,P402,HomeCentre Decor Model-803,Home,Decor,HomeCentre,53028.34
+187,P403,Tata Tea Beverages Model-899,Groceries,Beverages,Tata Tea,11151.4
+188,P405,Nike Shirts Model-131,Fashion,Shirts,Nike,54735.58
+189,P406,HP Laptops Model-918,Electronics,Laptops,HP,51316.69
+190,P407,Xiaomi Smartphones Model-310,Electronics,Smartphones,Xiaomi,99220.09
+191,P408,Samsung TV Model-762,Electronics,TV,Samsung,76381.45
+192,P409,Dell Laptops Model-598,Electronics,Laptops,Dell,69185.64
+193,P410,Kissan Packaged Foods Model-174,Groceries,Packaged Foods,Kissan,26208.11
+194,P411,Titan Watches Model-293,Fashion,Watches,Titan,90197.27
+195,P412,Kellogg's Packaged Foods Model-873,Groceries,Packaged Foods,Kellogg's,40027.09
+196,P413,Samsung Smartphones Model-403,Electronics,Smartphones,Samsung,39832.28
+197,P414,Xiaomi Smartphones Model-735,Electronics,Smartphones,Xiaomi,49789.91
+198,P415,Maggi Packaged Foods Model-317,Groceries,Packaged Foods,Maggi,90292.83
+199,P416,iMac Laptops Model-824,Electronics,Laptops,iMac,41124.13
+200,P417,HP Laptops Model-213,Electronics,Laptops,HP,84043.33
+201,P418,Motorola Smartphones Model-771,Electronics,Smartphones,Motorola,13599.81
+202,P419,Reebok Shoes Model-381,Fashion,Shoes,Reebok,99999.0
+203,P420,US Polo Shirts Model-572,Fashion,Shirts,US Polo,42000.71
+204,P421,Prestige Kitchen Model-969,Home,Kitchen,Prestige,93850.37
+205,P422,Nike Shoes Model-449,Fashion,Shoes,Nike,46593.92
+206,P423,HomeCentre Decor Model-621,Home,Decor,HomeCentre,50877.11
+207,P424,Haldiram's Snacks Model-650,Groceries,Snacks,Haldiram's,91950.5
+208,P425,Reebok Shoes Model-258,Fashion,Shoes,Reebok,77301.18
+209,P426,Whirlpool Kitchen Model-355,Home,Kitchen,Whirlpool,2454.66
+210,P427,HomeCentre Decor Model-773,Home,Decor,HomeCentre,86872.5
+211,P428,Haldiram's Snacks Model-354,Groceries,Snacks,UNKNOWN,95915.98
+212,P429,HP Laptops Model-159,Electronics,Laptops,HP,12242.15
+213,P430,Prestige Kitchen Model-517,Home,Kitchen,Prestige,78408.95
+214,P431,Sony TV Model-110,Electronics,TV,Sony,89099.25
+215,P432,Whirlpool Kitchen Model-436,Home,Kitchen,Whirlpool,92646.44
+216,P433,Rolex Watches Model-482,Fashion,Watches,UNKNOWN,96179.38
+217,P434,OnePlus Smartphones Model-492,Electronics,Smartphones,OnePlus,22094.5
+218,P435,HomeCentre Decor Model-955,Home,Decor,HomeCentre,57087.54
+219,P436,LG TV Model-302,Electronics,TV,LG,93052.8
+220,P438,Ikea Furniture Model-163,Home,Furniture,Ikea,87943.68
+221,P439,Dell Laptops Model-475,Electronics,Laptops,Dell,90796.84
+222,P440,Prestige Kitchen Model-325,Home,Kitchen,Prestige,69324.43
+223,P441,Panasonic TV Model-679,Electronics,TV,Panasonic,14080.15
+224,P442,HP Laptops Model-742,Electronics,Laptops,HP,13989.02
+225,P444,Rolex Watches Model-538,Fashion,Watches,Rolex,41749.41
+226,P445,Godrej Kitchen Model-341,Home,Kitchen,Godrej,87328.44
+227,P446,Lay's Snacks Model-682,Groceries,Snacks,Lay's,99999.0
+228,P447,Adidas Shoes Model-675,Fashion,Shoes,Adidas,16855.1
+229,P449,Samsung TV Model-798,Electronics,TV,Samsung,21977.83
+230,P450,Whirlpool Kitchen Model-164,Home,Kitchen,Whirlpool,75927.14
+231,P451,Lenovo Laptops Model-889,Electronics,Laptops,Lenovo,40265.04
+232,P452,Puma Shoes Model-470,Fashion,Shoes,Puma,65415.62
+233,P453,Lenovo Laptops Model-204,Electronics,Laptops,Lenovo,94756.55
+234,P454,Samsung Smartphones Model-423,Electronics,Smartphones,Samsung,69080.15
+235,P455,Rolex Watches Model-104,Fashion,Watches,Rolex,13543.97
+236,P456,Samsung TV Model-240,Electronics,TV,Samsung,24103.61
+237,P457,Samsung Smartphones Model-895,Electronics,Smartphones,Samsung,66335.51
+238,P458,Pepsi Beverages Model-132,Groceries,Beverages,Pepsi,57878.45
+239,P459,Ikea Furniture Model-167,Home,Furniture,Ikea,96426.24
+240,P460,Coca-Cola Beverages Model-261,Groceries,Beverages,Coca-Cola,71466.03
+241,P461,Casio Watches Model-792,Fashion,Watches,Casio,91304.29
+242,P462,Pepsi Beverages Model-504,Groceries,Beverages,UNKNOWN,17574.31
+243,P463,Reebok Shoes Model-583,Fashion,Shoes,Reebok,9421.48
+244,P464,Westelm Furniture Model-415,Home,Furniture,Westelm,89831.34
+245,P466,Ikea Furniture Model-540,Home,Furniture,Ikea,60062.65
+246,P467,LG TV Model-730,Electronics,TV,LG,9175.1
+247,P470,Adidas Shoes Model-833,Fashion,Shoes,Adidas,89732.72
+248,P471,Ikea Furniture Model-933,Home,Furniture,Ikea,9515.86
+249,P472,Godrej Kitchen Model-120,Home,Kitchen,Godrej,51476.93
+250,P473,Westelm Furniture Model-448,Home,Furniture,Westelm,67014.05
+251,P475,Sony TV Model-512,Electronics,TV,Sony,13590.16
+252,P476,Puma Shirts Model-135,Fashion,Shirts,Puma,32100.38
+253,P478,Kellogg's Packaged Foods Model-856,Groceries,Packaged Foods,Kellogg's,4643.66
+254,P479,Kellogg's Packaged Foods Model-393,Groceries,Packaged Foods,Kellogg's,85187.95
+255,P480,Pepsi Beverages Model-901,Groceries,Beverages,Pepsi,82416.78
+256,P481,OnePlus Smartphones Model-850,Electronics,Smartphones,OnePlus,6570.11
+257,P482,HP Laptops Model-222,Electronics,Laptops,HP,10142.07
+258,P484,Maggi Packaged Foods Model-200,Groceries,Packaged Foods,UNKNOWN,10304.24
+259,P485,OnePlus Smartphones Model-435,Electronics,Smartphones,OnePlus,20891.82
+260,P486,Kissan Packaged Foods Model-502,Groceries,UNKNOWN,Kissan,33317.0
+261,P487,Haldiram's Snacks Model-723,Groceries,Snacks,Haldiram's,88243.57
+262,P489,Ikea Furniture Model-834,Home,Furniture,Ikea,62259.27
+263,P490,Pepsi Beverages Model-395,Groceries,Beverages,Pepsi,95398.67
+264,P491,Ikea Furniture Model-906,Home,Furniture,Ikea,42959.91
+265,P492,Lenovo Laptops Model-447,Electronics,Laptops,Lenovo,55122.86
+266,P493,Casio Watches Model-669,Fashion,Watches,Casio,16403.65
+267,P494,Sony TV Model-503,Electronics,TV,Sony,66073.65
+268,P495,HomeCentre Decor Model-840,Home,Decor,HomeCentre,84976.88
+269,P496,Puma Shirts Model-185,Fashion,Shirts,Puma,74946.33
+270,P497,US Polo Shirts Model-923,Fashion,Shirts,US Polo,37682.89
+271,P498,Lenovo Laptops Model-907,Electronics,Laptops,Lenovo,84440.51
+272,P499,Xiaomi Smartphones Model-977,Electronics,Smartphones,UNKNOWN,44626.43
+273,P500,Puma Shoes Model-753,Fashion,Shoes,Puma,86642.41
+274,P501,Whirlpool Kitchen Model-444,Home,Kitchen,Whirlpool,47082.74
+275,P502,Westelm Furniture Model-482,Home,Furniture,Westelm,31398.1
+276,P503,Panasonic TV Model-591,Electronics,TV,Panasonic,81753.73
+277,P504,Kellogg's Packaged Foods Model-291,Groceries,Packaged Foods,Kellogg's,4646.2
+278,P505,Prestige Kitchen Model-204,Home,Kitchen,Prestige,90157.9
+279,P506,Westelm Furniture Model-365,Home,Furniture,Westelm,50594.9
+280,P507,Reebok Shoes Model-336,Fashion,Shoes,Reebok,36463.74
+281,P508,Lay's Snacks Model-290,Groceries,Snacks,Lay's,12513.11
+282,P510,Prestige Kitchen Model-415,Home,Kitchen,Prestige,58306.67
+283,P511,Cadbury Snacks Model-409,Groceries,Snacks,UNKNOWN,70891.19
+284,P513,Whirlpool Kitchen Model-662,Home,Kitchen,Whirlpool,25552.78
+285,P514,HomeCentre Decor Model-349,Home,Decor,HomeCentre,50719.57
+286,P515,Reebok Shoes Model-927,Fashion,Shoes,Reebok,34020.55
+287,P516,Panasonic TV Model-154,Electronics,TV,Panasonic,41796.25
+288,P517,Sony TV Model-154,Electronics,TV,Sony,9793.09
+289,P518,Maggi Packaged Foods Model-677,Groceries,Packaged Foods,Maggi,68778.36
+290,P519,Adidas Shoes Model-583,Fashion,Shoes,Adidas,56214.43
+291,P520,Westelm Furniture Model-516,Home,Furniture,Westelm,4831.66
+292,P521,Westelm Furniture Model-250,Home,Furniture,Westelm,86818.03
+293,P522,Levis Shirts Model-350,Fashion,Shirts,Levis,26903.59
+294,P523,Haldiram's Snacks Model-558,Groceries,Snacks,Haldiram's,91210.16
+295,P524,Kissan Packaged Foods Model-286,Groceries,Packaged Foods,Kissan,19198.99
+296,P525,Pepsi Beverages Model-866,Groceries,Beverages,Pepsi,69816.48
+297,P526,Kissan Packaged Foods Model-836,Groceries,Packaged Foods,Kissan,40170.78
+298,P527,Whirlpool Kitchen Model-756,Home,Kitchen,Whirlpool,6741.15
+299,P528,Levis Shirts Model-786,Fashion,Shirts,Levis,95056.46
+300,P529,HP Laptops Model-154,Electronics,Laptops,HP,22508.86
+301,P530,Reebok Shoes Model-747,Fashion,Shoes,Reebok,10401.76
+302,P531,Levis Shirts Model-368,Fashion,Shirts,Levis,31479.54
+303,P532,Reebok Shoes Model-188,Fashion,Shoes,Reebok,87982.79
+304,P533,Samsung Smartphones Model-340,Electronics,Smartphones,Samsung,75128.07
+305,P534,iMac Laptops Model-121,Electronics,Laptops,iMac,62823.08
+306,P535,Whirlpool Kitchen Model-578,Home,Kitchen,Whirlpool,62129.76
+307,P536,Lay's Snacks Model-880,Groceries,Snacks,Lay's,19667.82
+308,P537,Pepsi Beverages Model-738,Groceries,Beverages,Pepsi,66137.72
+309,P538,Reebok Shoes Model-987,Fashion,Shoes,Reebok,76236.56
+310,P540,Rolex Watches Model-812,Fashion,Watches,Rolex,11325.94
+311,P541,Haldiram's Snacks Model-777,Groceries,Snacks,Haldiram's,83804.03
+312,P542,Apple Smartphones Model-304,Electronics,Smartphones,Apple,91039.12
+313,P543,Reebok Shoes Model-636,Fashion,Shoes,Reebok,94947.32
+314,P544,Maggi Packaged Foods Model-928,Groceries,Packaged Foods,Maggi,81405.44
+315,P545,Adidas Shoes Model-569,Fashion,Shoes,Adidas,20128.58
+316,P546,Kissan Packaged Foods Model-771,Groceries,Packaged Foods,Kissan,61168.65
+317,P547,Lay's Snacks Model-127,Groceries,Snacks,Lay's,41401.7
+318,P548,OnePlus Smartphones Model-386,Electronics,Smartphones,OnePlus,18287.64
+319,P549,Tata Tea Beverages Model-989,Groceries,Beverages,Tata Tea,97745.23
+320,P551,Casio Watches Model-531,Fashion,UNKNOWN,Casio,8982.0
+321,P552,Whirlpool Kitchen Model-291,Home,Kitchen,Whirlpool,32495.04
+322,P553,Samsung TV Model-708,Electronics,TV,Samsung,76069.68
+323,P554,Pepsi Beverages Model-389,Groceries,Beverages,Pepsi,7083.94
+324,P555,Titan Watches Model-776,Fashion,Watches,Titan,47665.69
+325,P556,Motorola Smartphones Model-701,Electronics,Smartphones,Motorola,47529.06
+326,P557,Puma Shirts Model-281,Fashion,Shirts,Puma,62372.45
+327,P558,Whirlpool Kitchen Model-646,Home,Kitchen,Whirlpool,48089.4
+328,P559,Lay's Snacks Model-453,Groceries,Snacks,Lay's,73466.48
+329,P560,US Polo Shirts Model-213,Fashion,Shirts,US Polo,39349.14
+330,P561,Rolex Watches Model-123,Fashion,Watches,Rolex,14706.08
+331,P562,Ikea Furniture Model-500,Home,Furniture,Ikea,85461.4
+332,P563,Lay's Snacks Model-254,Groceries,Snacks,Lay's,12163.09
+333,P564,Westelm Furniture Model-499,Home,Furniture,Westelm,15634.32
+334,P565,Ikea Furniture Model-270,Home,Furniture,Ikea,1242.03
+335,P566,HomeCentre Decor Model-432,Home,Decor,HomeCentre,96993.56
+336,P567,US Polo Shirts Model-162,Fashion,Shirts,US Polo,34366.73
+337,P568,Westelm Furniture Model-692,Home,Furniture,Westelm,33480.85
+338,P569,Puma Shirts Model-572,Fashion,Shirts,Puma,59032.28
+339,P570,Casio Watches Model-289,Fashion,Watches,Casio,512.59
+340,P571,Rolex Watches Model-455,Fashion,Watches,Rolex,99999.0
+341,P572,Tata Tea Beverages Model-480,Groceries,Beverages,Tata Tea,16869.72
+342,P573,Samsung Smartphones Model-967,Electronics,UNKNOWN,Samsung,20442.89
+343,P575,Ikea Furniture Model-685,Home,Furniture,Ikea,31095.07
+344,P576,Kissan Packaged Foods Model-706,Groceries,Packaged Foods,Kissan,1911.1
+345,P577,Prestige Kitchen Model-126,Home,Kitchen,UNKNOWN,33578.46
+346,P578,Godrej Kitchen Model-690,Home,Kitchen,Godrej,56088.09
+347,P579,OnePlus Smartphones Model-287,Electronics,Smartphones,OnePlus,84412.84
+348,P580,Lay's Snacks Model-614,Groceries,Snacks,Lay's,39035.73
+349,P581,Ikea Furniture Model-479,Home,Furniture,Ikea,29034.85
+350,P582,Motorola Smartphones Model-499,Electronics,Smartphones,Motorola,25194.55
+351,P584,Godrej Kitchen Model-353,Home,Kitchen,Godrej,51502.17
+352,P585,Samsung Smartphones Model-145,Electronics,Smartphones,Samsung,21132.84
+353,P586,Kissan Packaged Foods Model-131,Groceries,UNKNOWN,Kissan,81412.64
+354,P587,US Polo Shirts Model-757,Fashion,Shirts,US Polo,77067.89
+355,P588,Whirlpool Kitchen Model-199,Home,Kitchen,Whirlpool,90729.59
+356,P589,Sony TV Model-839,Electronics,TV,Sony,16914.69
+357,P590,Samsung TV Model-101,Electronics,TV,Samsung,31362.31
+358,P593,HomeCentre Decor Model-722,Home,Decor,HomeCentre,46573.81
+359,P594,HP Laptops Model-636,Electronics,UNKNOWN,HP,18262.12
+360,P595,Cadbury Snacks Model-467,Groceries,UNKNOWN,Cadbury,16744.65
+361,P596,HomeCentre Decor Model-247,Home,Decor,HomeCentre,84387.66
+362,P597,Cadbury Snacks Model-339,Groceries,Snacks,Cadbury,55239.46
+363,P598,Whirlpool Kitchen Model-495,Home,Kitchen,Whirlpool,19809.75
+364,P599,Dell Laptops Model-995,Electronics,Laptops,Dell,99999.0
+365,P600,HomeCentre Decor Model-722,Home,Decor,HomeCentre,99999.0
+366,P601,Dell Laptops Model-360,Electronics,Laptops,Dell,88413.94
+367,P602,Tata Tea Beverages Model-978,Groceries,Beverages,Tata Tea,7290.72
+368,P604,Lay's Snacks Model-635,Groceries,Snacks,Lay's,80767.31
+369,P605,Lay's Snacks Model-830,Groceries,Snacks,Lay's,96929.82
+370,P606,Nike Shirts Model-967,Fashion,Shirts,Nike,70175.82
+371,P607,Kellogg's Packaged Foods Model-152,Groceries,Packaged Foods,Kellogg's,23962.78
+372,P608,Samsung TV Model-247,Electronics,TV,Samsung,78612.17
+373,P609,Puma Shoes Model-613,Fashion,Shoes,Puma,67277.26
+374,P610,Dell Laptops Model-860,Electronics,Laptops,Dell,9110.29
+375,P611,HomeCentre Decor Model-343,Home,Decor,HomeCentre,58899.45
+376,P612,Puma Shoes Model-149,Fashion,Shoes,Puma,53647.04
+377,P613,Maggi Packaged Foods Model-694,Groceries,Packaged Foods,Maggi,92242.64
+378,P614,HomeCentre Decor Model-114,Home,Decor,HomeCentre,6947.15
+379,P616,Ikea Furniture Model-724,Home,Furniture,Ikea,91270.98
+380,P617,iMac Laptops Model-973,Electronics,Laptops,iMac,47389.1
+381,P618,Coca-Cola Beverages Model-718,Groceries,Beverages,Coca-Cola,51256.63
+382,P619,Panasonic TV Model-235,Electronics,TV,Panasonic,99999.0
+383,P620,Nike Shoes Model-979,Fashion,Shoes,Nike,45401.55
+384,P621,Levis Shirts Model-610,Fashion,Shirts,Levis,94986.46
+385,P622,HomeCentre Decor Model-173,Home,Decor,HomeCentre,56173.37
+386,P623,Kellogg's Packaged Foods Model-901,Groceries,Packaged Foods,Kellogg's,59455.33
+387,P625,Nike Shoes Model-137,Fashion,Shoes,Nike,95711.3
+388,P626,HP Laptops Model-157,Electronics,Laptops,HP,10361.95
+389,P627,Prestige Kitchen Model-343,Home,Kitchen,Prestige,36367.74
+390,P628,Cadbury Snacks Model-377,Groceries,Snacks,Cadbury,6782.22
+391,P629,Samsung Smartphones Model-409,Electronics,Smartphones,Samsung,43978.96
+392,P630,Godrej Kitchen Model-907,Home,UNKNOWN,Godrej,94555.04
+393,P631,Maggi Packaged Foods Model-883,Groceries,Packaged Foods,Maggi,43486.0
+394,P632,Pepsi Beverages Model-207,Groceries,Beverages,Pepsi,40682.77
+395,P633,Xiaomi Smartphones Model-467,Electronics,Smartphones,Xiaomi,99999.0
+396,P634,Dell Laptops Model-793,Electronics,Laptops,Dell,51594.07
+397,P635,Godrej Kitchen Model-148,Home,Kitchen,Godrej,25291.84
+398,P636,Dell Laptops Model-665,Electronics,Laptops,Dell,67869.21
+399,P637,Levis Shirts Model-879,Fashion,Shirts,Levis,10745.17
+400,P638,Lay's Snacks Model-697,Groceries,Snacks,Lay's,81986.8
+401,P639,Reebok Shoes Model-710,Fashion,Shoes,UNKNOWN,41870.27
+402,P640,Kissan Packaged Foods Model-266,Groceries,Packaged Foods,Kissan,33854.73
+403,P642,Westelm Furniture Model-530,Home,Furniture,Westelm,40149.57
+404,P643,Samsung TV Model-438,Electronics,TV,Samsung,35955.09
+405,P644,Lenovo Laptops Model-448,Electronics,Laptops,Lenovo,85750.25
+406,P645,Pepsi Beverages Model-561,Groceries,Beverages,Pepsi,78253.94
+407,P646,US Polo Shirts Model-150,Fashion,Shirts,US Polo,28291.21
+408,P647,Lay's Snacks Model-244,Groceries,Snacks,Lay's,76613.52
+409,P648,Haldiram's Snacks Model-156,Groceries,Snacks,Haldiram's,17039.83
+410,P649,Prestige Kitchen Model-786,Home,Kitchen,Prestige,20231.95
+411,P650,Panasonic TV Model-342,Electronics,TV,Panasonic,12160.54
+412,P652,Nike Shoes Model-915,Fashion,Shoes,Nike,22771.8
+413,P653,Dell Laptops Model-648,Electronics,Laptops,Dell,14596.84
+414,P654,Haldiram's Snacks Model-855,Groceries,Snacks,Haldiram's,68730.61
+415,P655,Samsung TV Model-235,Electronics,TV,Samsung,34987.03
+416,P656,Rolex Watches Model-705,Fashion,Watches,Rolex,72695.5
+417,P657,Lenovo Laptops Model-318,Electronics,Laptops,Lenovo,74803.0
+418,P658,Lay's Snacks Model-480,Groceries,Snacks,Lay's,13867.19
+419,P659,Adidas Shoes Model-278,Fashion,Shoes,Adidas,91335.37
+420,P660,Godrej Kitchen Model-504,Home,Kitchen,Godrej,16273.47
+421,P661,US Polo Shirts Model-929,Fashion,Shirts,US Polo,3220.11
+422,P662,US Polo Shirts Model-893,Fashion,Shirts,US Polo,88757.73
+423,P663,Motorola Smartphones Model-513,Electronics,Smartphones,UNKNOWN,68765.69
+424,P665,Casio Watches Model-814,Fashion,Watches,Casio,92668.23
+425,P666,Pepsi Beverages Model-305,Groceries,Beverages,Pepsi,47768.53
+426,P667,Casio Watches Model-346,Fashion,Watches,Casio,4693.25
+427,P668,Nike Shirts Model-587,Fashion,Shirts,Nike,90973.41
+428,P669,Coca-Cola Beverages Model-122,Groceries,Beverages,UNKNOWN,26411.14
+429,P670,Ikea Furniture Model-723,Home,Furniture,Ikea,48189.81
+430,P671,Haldiram's Snacks Model-711,Groceries,Snacks,Haldiram's,33012.11
+431,P672,Pepsi Beverages Model-298,Groceries,Beverages,Pepsi,38583.6
+432,P673,Dell Laptops Model-529,Electronics,Laptops,Dell,40998.24
+433,P674,Cadbury Snacks Model-750,Groceries,Snacks,Cadbury,36875.83
+434,P675,Godrej Kitchen Model-680,Home,Kitchen,Godrej,56023.05
+435,P676,Lay's Snacks Model-451,Groceries,Snacks,Lay's,34188.03
+436,P677,Westelm Furniture Model-715,Home,Furniture,UNKNOWN,28547.52
+437,P678,Nike Shoes Model-919,Fashion,Shoes,Nike,49810.88
+438,P679,Apple Smartphones Model-761,Electronics,Smartphones,Apple,15602.47
+439,P681,Ikea Furniture Model-798,Home,Furniture,Ikea,35654.51
+440,P682,HomeCentre Decor Model-933,Home,Decor,HomeCentre,75792.48
+441,P683,Kissan Packaged Foods Model-516,Groceries,Packaged Foods,Kissan,33579.44
+442,P684,Samsung Smartphones Model-606,Electronics,Smartphones,Samsung,77317.42
+443,P685,Kellogg's Packaged Foods Model-748,Groceries,Packaged Foods,Kellogg's,8313.72
+444,P686,Prestige Kitchen Model-889,Home,Kitchen,Prestige,63483.72
+445,P687,Pepsi Beverages Model-346,Groceries,Beverages,Pepsi,72613.68
+446,P688,OnePlus Smartphones Model-560,Electronics,Smartphones,OnePlus,87353.35
+447,P689,Samsung Smartphones Model-503,Electronics,Smartphones,Samsung,90545.29
+448,P690,Adidas Shoes Model-354,Fashion,Shoes,Adidas,76455.7
+449,P693,HomeCentre Decor Model-684,Home,Decor,HomeCentre,49018.2
+450,P694,Panasonic TV Model-787,Electronics,TV,Panasonic,77542.32
+451,P695,Westelm Furniture Model-744,Home,Furniture,Westelm,52127.49
+452,P696,Tata Tea Beverages Model-364,Groceries,Beverages,Tata Tea,30309.34
+453,P697,Casio Watches Model-606,Fashion,Watches,Casio,23815.27
+454,P698,HomeCentre Decor Model-653,Home,Decor,HomeCentre,95777.28
+455,P699,Rolex Watches Model-705,Fashion,Watches,Rolex,51607.92
+456,P700,Reebok Shoes Model-596,Fashion,Shoes,Reebok,73521.81
+457,P702,Reebok Shoes Model-103,Fashion,Shoes,Reebok,70724.82
+458,P703,Samsung TV Model-385,Electronics,TV,Samsung,26142.54
+459,P704,Samsung Smartphones Model-640,Electronics,Smartphones,Samsung,87039.34
+460,P705,Puma Shirts Model-505,Fashion,Shirts,Puma,62908.39
+461,P707,Rolex Watches Model-376,Fashion,Watches,Rolex,91162.5
+462,P708,HomeCentre Decor Model-550,Home,Decor,HomeCentre,52215.01
+463,P709,Pepsi Beverages Model-562,Groceries,Beverages,Pepsi,73846.37
+464,P710,Rolex Watches Model-106,Fashion,Watches,Rolex,32292.56
+465,P711,Maggi Packaged Foods Model-309,Groceries,Packaged Foods,Maggi,12885.38
+466,P714,Ikea Furniture Model-215,Home,Furniture,Ikea,60066.69
+467,P715,Whirlpool Kitchen Model-386,Home,Kitchen,Whirlpool,6830.62
+468,P716,Lenovo Laptops Model-466,Electronics,Laptops,Lenovo,68911.25
+469,P717,Haldiram's Snacks Model-429,Groceries,Snacks,Haldiram's,48739.75
+470,P718,Prestige Kitchen Model-441,Home,Kitchen,Prestige,93774.95
+471,P719,Pepsi Beverages Model-884,Groceries,Beverages,Pepsi,30653.83
+472,P720,Puma Shirts Model-112,Fashion,Shirts,UNKNOWN,89251.32
+473,P721,HomeCentre Decor Model-639,Home,Decor,HomeCentre,76387.29
+474,P722,LG TV Model-993,Electronics,TV,LG,73534.38
+475,P723,Levis Shirts Model-214,Fashion,Shirts,Levis,17041.11
+476,P724,Haldiram's Snacks Model-881,Groceries,Snacks,Haldiram's,93578.57
+477,P725,Rolex Watches Model-926,Fashion,Watches,Rolex,60486.99
+478,P726,Nike Shirts Model-385,Fashion,Shirts,Nike,71000.54
+479,P727,Lay's Snacks Model-689,Groceries,Snacks,UNKNOWN,96045.5
+480,P728,Lenovo Laptops Model-815,Electronics,Laptops,Lenovo,75564.42
+481,P729,Casio Watches Model-757,Fashion,UNKNOWN,Casio,85072.61
+482,P731,OnePlus Smartphones Model-533,Electronics,Smartphones,OnePlus,6232.26
+483,P732,Rolex Watches Model-740,Fashion,Watches,Rolex,68700.27
+484,P733,US Polo Shirts Model-461,Fashion,Shirts,US Polo,79272.77
+485,P734,Sony TV Model-980,Electronics,TV,Sony,32716.14
+486,P736,LG TV Model-393,Electronics,TV,LG,15388.73
+487,P738,Titan Watches Model-603,Fashion,Watches,Titan,39215.39
+488,P739,Westelm Furniture Model-157,Home,Furniture,Westelm,55410.43
+489,P740,Puma Shoes Model-715,Fashion,Shoes,Puma,99999.0
+490,P741,Westelm Furniture Model-478,Home,Furniture,Westelm,23968.91
+491,P742,Xiaomi Smartphones Model-963,Electronics,Smartphones,Xiaomi,99999.0
+492,P743,Coca-Cola Beverages Model-527,Groceries,Beverages,Coca-Cola,99999.0
+493,P744,Ikea Furniture Model-485,Home,Furniture,Ikea,75186.76
+494,P746,Westelm Furniture Model-763,Home,Furniture,Westelm,89169.43
+495,P747,Apple Smartphones Model-867,Electronics,Smartphones,Apple,11661.03
+496,P748,Adidas Shoes Model-867,Fashion,Shoes,Adidas,49739.6
+497,P749,iMac Laptops Model-496,Electronics,Laptops,iMac,93298.59
+498,P750,Dell Laptops Model-297,Electronics,Laptops,Dell,10488.5
+499,P751,Kissan Packaged Foods Model-640,Groceries,Packaged Foods,Kissan,90893.2
+500,P752,Ikea Furniture Model-641,Home,Furniture,Ikea,96845.35
+501,P753,Apple Smartphones Model-844,Electronics,Smartphones,Apple,40739.72
+502,P754,HomeCentre Decor Model-391,Home,Decor,HomeCentre,76689.26
+503,P755,Puma Shirts Model-674,Fashion,Shirts,Puma,99999.0
+504,P756,HP Laptops Model-445,Electronics,Laptops,HP,95601.62
+505,P757,Kissan Packaged Foods Model-170,Groceries,Packaged Foods,Kissan,23628.88
+506,P758,Ikea Furniture Model-331,Home,Furniture,Ikea,81514.41
+507,P759,Samsung TV Model-312,Electronics,TV,Samsung,98275.23
+508,P760,Prestige Kitchen Model-535,Home,Kitchen,Prestige,39949.33
+509,P761,Samsung TV Model-119,Electronics,TV,Samsung,56869.6
+510,P762,Nike Shoes Model-916,Fashion,Shoes,Nike,73672.13
+511,P763,Adidas Shoes Model-353,Fashion,Shoes,Adidas,88682.1
+512,P764,LG TV Model-812,Electronics,TV,LG,72470.59
+513,P765,HP Laptops Model-308,Electronics,Laptops,HP,99296.67
+514,P766,Casio Watches Model-812,Fashion,Watches,Casio,30953.68
+515,P767,Cadbury Snacks Model-384,Groceries,Snacks,Cadbury,60809.87
+516,P770,iMac Laptops Model-916,Electronics,Laptops,iMac,73311.41
+517,P771,HomeCentre Decor Model-831,Home,Decor,HomeCentre,14436.73
+518,P772,HomeCentre Decor Model-349,Home,Decor,HomeCentre,27671.97
+519,P773,Samsung Smartphones Model-780,Electronics,Smartphones,Samsung,24964.33
+520,P774,Westelm Furniture Model-132,Home,Furniture,Westelm,57798.77
+521,P775,iMac Laptops Model-679,Electronics,Laptops,iMac,99102.47
+522,P776,Panasonic TV Model-471,Electronics,TV,UNKNOWN,89003.65
+523,P777,Tata Tea Beverages Model-136,Groceries,Beverages,Tata Tea,48999.96
+524,P778,Ikea Furniture Model-102,Home,UNKNOWN,Ikea,69055.88
+525,P779,LG TV Model-643,Electronics,TV,LG,79563.31
+526,P780,Titan Watches Model-404,Fashion,Watches,Titan,66609.07
+527,P781,HP Laptops Model-870,Electronics,Laptops,HP,28210.81
+528,P782,HP Laptops Model-646,Electronics,Laptops,HP,39118.14
+529,P784,HomeCentre Decor Model-991,Home,Decor,HomeCentre,58522.15
+530,P785,Apple Smartphones Model-249,Electronics,Smartphones,Apple,98989.24
+531,P786,Whirlpool Kitchen Model-971,Home,Kitchen,UNKNOWN,77290.78
+532,P787,Titan Watches Model-198,Fashion,Watches,Titan,62755.88
+533,P788,Whirlpool Kitchen Model-569,Home,Kitchen,Whirlpool,11082.14
+534,P789,Kissan Packaged Foods Model-817,Groceries,Packaged Foods,Kissan,39554.54
+535,P790,Whirlpool Kitchen Model-309,Home,Kitchen,Whirlpool,48780.85
+536,P791,Whirlpool Kitchen Model-916,Home,Kitchen,Whirlpool,77537.38
+537,P792,Adidas Shoes Model-378,Fashion,Shoes,Adidas,71604.32
+538,P793,Ikea Furniture Model-638,Home,Furniture,Ikea,93574.21
+539,P794,HomeCentre Decor Model-240,Home,Decor,HomeCentre,39623.15
+540,P795,Lay's Snacks Model-698,Groceries,Snacks,Lay's,3628.35
+541,P797,Levis Shirts Model-783,Fashion,Shirts,Levis,497.43
+542,P798,Cadbury Snacks Model-677,Groceries,Snacks,Cadbury,82388.48
+543,P799,Nike Shirts Model-375,Fashion,Shirts,UNKNOWN,91605.82
+544,P800,LG TV Model-561,Electronics,TV,LG,22924.64
+545,P801,HomeCentre Decor Model-683,Home,Decor,HomeCentre,62210.59
+546,P802,HomeCentre Decor Model-142,Home,Decor,HomeCentre,1370.32
+547,P803,Kellogg's Packaged Foods Model-670,Groceries,Packaged Foods,Kellogg's,9845.23
+548,P804,HP Laptops Model-401,Electronics,Laptops,HP,82414.5
+549,P805,Titan Watches Model-269,Fashion,Watches,Titan,99999.0
+550,P806,Panasonic TV Model-201,Electronics,TV,Panasonic,82613.3
+551,P807,Westelm Furniture Model-386,Home,Furniture,Westelm,89535.02
+552,P808,Xiaomi Smartphones Model-852,Electronics,Smartphones,Xiaomi,64203.17
+553,P809,Motorola Smartphones Model-125,Electronics,Smartphones,Motorola,88205.53
+554,P810,OnePlus Smartphones Model-717,Electronics,Smartphones,OnePlus,38004.58
+555,P811,Coca-Cola Beverages Model-305,Groceries,Beverages,Coca-Cola,52623.27
+556,P812,iMac Laptops Model-387,Electronics,Laptops,iMac,54748.14
+557,P813,Prestige Kitchen Model-786,Home,Kitchen,Prestige,9090.21
+558,P814,Coca-Cola Beverages Model-335,Groceries,Beverages,Coca-Cola,40466.03
+559,P815,Nike Shirts Model-395,Fashion,Shirts,UNKNOWN,59682.37
+560,P816,Godrej Kitchen Model-996,Home,Kitchen,Godrej,19209.09
+561,P817,Puma Shoes Model-632,Fashion,Shoes,Puma,7900.7
+562,P818,Casio Watches Model-191,Fashion,Watches,Casio,48148.7
+563,P819,Godrej Kitchen Model-423,Home,Kitchen,Godrej,44776.01
+564,P820,HomeCentre Decor Model-859,Home,Decor,HomeCentre,19646.93
+565,P821,Haldiram's Snacks Model-888,Groceries,Snacks,Haldiram's,50968.52
+566,P822,Casio Watches Model-266,Fashion,Watches,Casio,92395.56
+567,P823,Levis Shirts Model-282,Fashion,Shirts,Levis,26498.85
+568,P824,Titan Watches Model-664,Fashion,Watches,Titan,80576.09
+569,P825,iMac Laptops Model-437,Electronics,Laptops,iMac,1113.25
+570,P826,Godrej Kitchen Model-975,Home,Kitchen,Godrej,28694.47
+571,P828,HP Laptops Model-700,Electronics,Laptops,HP,44595.25
+572,P829,Ikea Furniture Model-937,Home,Furniture,Ikea,31877.88
+573,P830,Westelm Furniture Model-191,Home,Furniture,Westelm,1964.3
+574,P831,Puma Shirts Model-647,Fashion,Shirts,Puma,39391.46
+575,P832,LG TV Model-970,Electronics,TV,LG,61719.2
+576,P833,Tata Tea Beverages Model-611,Groceries,Beverages,Tata Tea,87821.5
+577,P835,OnePlus Smartphones Model-560,Electronics,Smartphones,OnePlus,57447.95
+578,P836,Lay's Snacks Model-420,Groceries,UNKNOWN,Lay's,29423.17
+579,P837,Kissan Packaged Foods Model-915,Groceries,Packaged Foods,Kissan,3586.64
+580,P838,Casio Watches Model-686,Fashion,Watches,Casio,32709.88
+581,P839,Cadbury Snacks Model-299,Groceries,Snacks,Cadbury,42989.97
+582,P840,Adidas Shoes Model-313,Fashion,Shoes,Adidas,35549.21
+583,P841,Godrej Kitchen Model-630,Home,Kitchen,Godrej,83798.58
+584,P842,Kissan Packaged Foods Model-539,Groceries,Packaged Foods,Kissan,56897.08
+585,P843,Lay's Snacks Model-542,Groceries,Snacks,Lay's,49607.84
+586,P844,Nike Shoes Model-737,Fashion,Shoes,Nike,17465.54
+587,P845,Nike Shirts Model-524,Fashion,Shirts,Nike,60076.61
+588,P846,HomeCentre Decor Model-619,Home,Decor,HomeCentre,73818.66
+589,P847,Haldiram's Snacks Model-863,Groceries,Snacks,Haldiram's,1924.1
+590,P848,Xiaomi Smartphones Model-197,Electronics,Smartphones,Xiaomi,86977.5
+591,P849,Adidas Shoes Model-815,Fashion,Shoes,Adidas,97758.02
+592,P850,Levis Shirts Model-223,Fashion,Shirts,Levis,24322.22
+593,P851,Kissan Packaged Foods Model-633,Groceries,Packaged Foods,Kissan,22253.62
+594,P852,Lenovo Laptops Model-559,Electronics,Laptops,Lenovo,3030.17
+595,P853,Lay's Snacks Model-727,Groceries,Snacks,Lay's,97208.48
+596,P854,Ikea Furniture Model-915,Home,Furniture,Ikea,93567.07
+597,P855,HomeCentre Decor Model-848,Home,Decor,HomeCentre,39955.73
+598,P856,HP Laptops Model-729,Electronics,Laptops,HP,46123.15
+599,P858,Whirlpool Kitchen Model-386,Home,Kitchen,Whirlpool,67648.47
+600,P859,OnePlus Smartphones Model-701,Electronics,Smartphones,OnePlus,17821.68
+601,P860,Lay's Snacks Model-155,Groceries,Snacks,Lay's,9813.62
+602,P861,HomeCentre Decor Model-371,Home,Decor,HomeCentre,31729.81
+603,P862,Sony TV Model-664,Electronics,TV,Sony,56398.65
+604,P863,Lay's Snacks Model-938,Groceries,Snacks,Lay's,26526.29
+605,P864,Kellogg's Packaged Foods Model-439,Groceries,Packaged Foods,Kellogg's,44645.6
+606,P865,Westelm Furniture Model-113,Home,Furniture,Westelm,91485.49
+607,P866,Whirlpool Kitchen Model-781,Home,Kitchen,Whirlpool,58315.52
+608,P867,LG TV Model-649,Electronics,TV,LG,18581.32
+609,P868,Samsung TV Model-573,Electronics,TV,Samsung,18976.14
+610,P869,Panasonic TV Model-921,Electronics,TV,Panasonic,83335.61
+611,P870,Tata Tea Beverages Model-643,Groceries,Beverages,Tata Tea,53669.76
+612,P871,Godrej Kitchen Model-543,Home,Kitchen,Godrej,62006.51
+613,P872,Cadbury Snacks Model-590,Groceries,Snacks,Cadbury,25085.59
+614,P873,OnePlus Smartphones Model-804,Electronics,Smartphones,OnePlus,52963.3
+615,P874,Motorola Smartphones Model-939,Electronics,Smartphones,Motorola,99999.0
+616,P875,Apple Smartphones Model-152,Electronics,Smartphones,Apple,40177.58
+617,P876,Godrej Kitchen Model-946,Home,Kitchen,Godrej,9340.23
+618,P877,HP Laptops Model-229,Electronics,Laptops,UNKNOWN,75181.15
+619,P878,Titan Watches Model-487,Fashion,Watches,Titan,55240.58
+620,P879,Puma Shoes Model-724,Fashion,Shoes,Puma,96756.9
+621,P880,Coca-Cola Beverages Model-326,Groceries,Beverages,Coca-Cola,3813.67
+622,P881,Tata Tea Beverages Model-978,Groceries,Beverages,Tata Tea,73897.69
+623,P882,Nike Shirts Model-540,Fashion,Shirts,Nike,51468.59
+624,P883,Godrej Kitchen Model-788,Home,Kitchen,Godrej,62443.43
+625,P884,Nike Shoes Model-893,Fashion,Shoes,Nike,24199.75
+626,P885,Cadbury Snacks Model-159,Groceries,Snacks,Cadbury,37422.9
+627,P886,HP Laptops Model-186,Electronics,Laptops,HP,27853.84
+628,P887,Kellogg's Packaged Foods Model-450,Groceries,Packaged Foods,Kellogg's,75270.6
+629,P888,Ikea Furniture Model-694,Home,Furniture,Ikea,47223.17
+630,P889,Motorola Smartphones Model-583,Electronics,Smartphones,Motorola,80813.7
+631,P890,Kellogg's Packaged Foods Model-418,Groceries,Packaged Foods,Kellogg's,56761.95
+632,P891,Ikea Furniture Model-340,Home,Furniture,Ikea,26451.6
+633,P892,Ikea Furniture Model-463,Home,Furniture,Ikea,58597.63
+634,P893,Puma Shoes Model-226,Fashion,Shoes,Puma,65680.81
+635,P894,Puma Shirts Model-629,Fashion,Shirts,Puma,69685.7
+636,P895,Westelm Furniture Model-483,Home,Furniture,Westelm,37352.05
+637,P896,Nike Shoes Model-762,Fashion,Shoes,Nike,6655.99
+638,P897,Tata Tea Beverages Model-440,Groceries,UNKNOWN,Tata Tea,50503.74
+639,P898,Titan Watches Model-224,Fashion,Watches,Titan,2306.63
+640,P899,HP Laptops Model-117,Electronics,Laptops,HP,4084.58
+641,P900,Ikea Furniture Model-845,Home,Furniture,Ikea,52292.41
+642,P901,Titan Watches Model-233,Fashion,Watches,Titan,80168.25
+643,P902,iMac Laptops Model-899,Electronics,Laptops,iMac,70938.53
+644,P903,HomeCentre Decor Model-915,Home,Decor,HomeCentre,61985.24
+645,P904,HP Laptops Model-287,Electronics,Laptops,HP,86294.66
+646,P905,Godrej Kitchen Model-135,Home,Kitchen,Godrej,70555.53
+647,P906,Nike Shirts Model-222,Fashion,Shirts,Nike,70980.41
+648,P907,Coca-Cola Beverages Model-877,Groceries,Beverages,Coca-Cola,30705.07
+649,P908,Ikea Furniture Model-172,Home,Furniture,Ikea,52768.94
+650,P909,Pepsi Beverages Model-175,Groceries,Beverages,Pepsi,10559.69
+651,P910,HomeCentre Decor Model-989,Home,Decor,HomeCentre,40464.5
+652,P912,Lenovo Laptops Model-311,Electronics,Laptops,Lenovo,74766.74
+653,P913,Samsung Smartphones Model-519,Electronics,Smartphones,Samsung,72336.54
+654,P914,Puma Shirts Model-538,Fashion,Shirts,Puma,15938.27
+655,P915,Lay's Snacks Model-491,Groceries,Snacks,Lay's,73683.51
+656,P917,HP Laptops Model-862,Electronics,Laptops,HP,44671.46
+657,P918,HomeCentre Decor Model-580,Home,Decor,HomeCentre,24357.24
+658,P919,Westelm Furniture Model-769,Home,Furniture,Westelm,20390.26
+659,P920,Lenovo Laptops Model-706,Electronics,Laptops,Lenovo,53755.7
+660,P921,iMac Laptops Model-409,Electronics,Laptops,iMac,99315.1
+661,P922,Samsung TV Model-272,Electronics,TV,Samsung,10646.68
+662,P923,HomeCentre Decor Model-708,Home,Decor,HomeCentre,40324.42
+663,P924,Casio Watches Model-570,Fashion,Watches,Casio,56338.98
+664,P925,Cadbury Snacks Model-586,Groceries,Snacks,Cadbury,30120.66
+665,P926,HP Laptops Model-204,Electronics,Laptops,HP,30837.5
+666,P927,Dell Laptops Model-382,Electronics,Laptops,Dell,44310.02
+667,P928,Ikea Furniture Model-833,Home,Furniture,Ikea,88426.22
+668,P929,Lay's Snacks Model-700,Groceries,Snacks,Lay's,73855.75
+669,P930,Haldiram's Snacks Model-547,Groceries,Snacks,UNKNOWN,18004.08
+670,P931,HomeCentre Decor Model-161,Home,Decor,HomeCentre,13216.44
+671,P932,Casio Watches Model-713,Fashion,Watches,Casio,31611.64
+672,P933,Samsung TV Model-223,Electronics,TV,Samsung,18327.59
+673,P934,Kissan Packaged Foods Model-434,Groceries,Packaged Foods,Kissan,70711.85
+674,P935,Puma Shirts Model-605,Fashion,Shirts,Puma,86807.26
+675,P936,Lay's Snacks Model-818,Groceries,Snacks,Lay's,84548.15
+676,P938,Coca-Cola Beverages Model-245,Groceries,Beverages,Coca-Cola,34075.55
+677,P939,Nike Shirts Model-245,Fashion,Shirts,Nike,72113.87
+678,P940,Maggi Packaged Foods Model-908,Groceries,Packaged Foods,Maggi,62256.43
+679,P941,Godrej Kitchen Model-535,Home,Kitchen,Godrej,43492.41
+680,P942,Maggi Packaged Foods Model-780,Groceries,Packaged Foods,Maggi,97094.45
+681,P943,Apple Smartphones Model-619,Electronics,Smartphones,Apple,69871.23
+682,P944,HomeCentre Decor Model-317,Home,Decor,HomeCentre,47797.35
+683,P945,Tata Tea Beverages Model-206,Groceries,Beverages,Tata Tea,96004.76
+684,P946,Casio Watches Model-386,Fashion,Watches,Casio,25321.49
+685,P947,Westelm Furniture Model-213,Home,Furniture,Westelm,18097.96
+686,P948,Ikea Furniture Model-284,Home,Furniture,Ikea,48789.91
+687,P949,LG TV Model-570,Electronics,TV,LG,12712.43
+688,P951,HomeCentre Decor Model-981,Home,Decor,HomeCentre,82196.87
+689,P952,Panasonic TV Model-298,Electronics,TV,Panasonic,30498.12
+690,P953,HomeCentre Decor Model-715,Home,Decor,HomeCentre,73736.71
+691,P954,Kissan Packaged Foods Model-249,Groceries,Packaged Foods,Kissan,62564.59
+692,P955,Westelm Furniture Model-550,Home,Furniture,Westelm,99999.0
+693,P956,Coca-Cola Beverages Model-985,Groceries,Beverages,Coca-Cola,70922.95
+694,P957,Whirlpool Kitchen Model-736,Home,Kitchen,Whirlpool,55895.06
+695,P958,Cadbury Snacks Model-567,Groceries,Snacks,Cadbury,66033.15
+696,P959,Lenovo Laptops Model-159,Electronics,Laptops,Lenovo,35171.93
+697,P960,Adidas Shoes Model-105,Fashion,Shoes,Adidas,9948.63
+698,P961,US Polo Shirts Model-784,Fashion,Shirts,US Polo,80195.27
+699,P962,Sony TV Model-353,Electronics,TV,Sony,7424.93
+700,P963,HP Laptops Model-744,Electronics,Laptops,HP,41517.3
+701,P964,Adidas Shoes Model-198,Fashion,Shoes,Adidas,61704.53
+702,P965,Panasonic TV Model-741,Electronics,TV,Panasonic,74773.26
+703,P966,Kissan Packaged Foods Model-301,Groceries,Packaged Foods,Kissan,19517.09
+704,P967,HomeCentre Decor Model-821,Home,Decor,HomeCentre,50258.25
+705,P968,iMac Laptops Model-114,Electronics,Laptops,UNKNOWN,53260.76
+706,P969,Nike Shirts Model-583,Fashion,Shirts,Nike,11678.95
+707,P970,OnePlus Smartphones Model-559,Electronics,Smartphones,OnePlus,58392.34
+708,P971,Tata Tea Beverages Model-710,Groceries,Beverages,Tata Tea,59963.81
+709,P972,Lay's Snacks Model-288,Groceries,Snacks,UNKNOWN,73466.27
+710,P973,Kellogg's Packaged Foods Model-481,Groceries,Packaged Foods,Kellogg's,21483.56
+711,P974,Reebok Shoes Model-787,Fashion,Shoes,Reebok,52174.29
+712,P976,Westelm Furniture Model-124,Home,Furniture,Westelm,24906.8
+713,P977,Puma Shirts Model-304,Fashion,Shirts,Puma,18723.52
+714,P978,US Polo Shirts Model-870,Fashion,Shirts,US Polo,93018.81
+715,P979,HP Laptops Model-547,Electronics,Laptops,HP,1561.12
+716,P980,Pepsi Beverages Model-218,Groceries,Beverages,Pepsi,33939.38
+717,P981,Kissan Packaged Foods Model-222,Groceries,Packaged Foods,Kissan,10427.27
+718,P982,Ikea Furniture Model-809,Home,Furniture,Ikea,76395.83
+719,P983,Coca-Cola Beverages Model-456,Groceries,Beverages,Coca-Cola,531.88
+720,P984,Haldiram's Snacks Model-661,Groceries,Snacks,Haldiram's,97728.18
+721,P985,Casio Watches Model-180,Fashion,Watches,Casio,50006.05
+722,P986,LG TV Model-628,Electronics,TV,LG,12001.13
+723,P987,Pepsi Beverages Model-886,Groceries,Beverages,Pepsi,22735.49
+724,P988,Kissan Packaged Foods Model-829,Groceries,Packaged Foods,Kissan,32843.07
+725,P989,HomeCentre Decor Model-798,Home,Decor,HomeCentre,80224.64
+726,P990,Levis Shirts Model-406,Fashion,Shirts,Levis,99167.92
+727,P992,Puma Shirts Model-885,Fashion,Shirts,Puma,57201.44
+728,P993,Prestige Kitchen Model-176,Home,Kitchen,Prestige,91319.26
+729,P994,iMac Laptops Model-943,Electronics,Laptops,iMac,70177.72
+730,P995,Dell Laptops Model-866,Electronics,Laptops,Dell,20758.4
+731,P996,Dell Laptops Model-454,Electronics,Laptops,UNKNOWN,44988.93
+732,P997,HP Laptops Model-850,Electronics,Laptops,HP,43084.49
+733,P998,Kissan Packaged Foods Model-648,Groceries,Packaged Foods,UNKNOWN,99999.0
+734,P999,Puma Shirts Model-923,Fashion,Shirts,Puma,15062.44
