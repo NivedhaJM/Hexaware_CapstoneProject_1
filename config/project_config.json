@@ -1,0 +1,85 @@
+{
+  "catalog": "retail",
+  "schemas": [ "bronze",  "silver", "gold", "audit" ],
+  "volumes": [ "raw_files", "processed_files" ],
+
+  "storage":   
+  {
+    "type": "volume",
+    "volume_base_path": "/Volumes/retail/bronze/raw_files",
+    "mount_base_path": "/mnt/raw",
+    "adls_base_path": "abfss://retailraw@sahexawaretrainingadls.dfs.core.windows.net"
+  },
+
+  "sources": [
+    {
+      "source_name": "products",
+      "format": "csv",
+      "source_type": "azure",
+      "source_file": "products.csv",
+      "relative_path": "products",
+      "bronze_table": "retail.bronze.products",
+      "silver_table": "retail.silver.products",
+      "gold_table": "retail.gold.dim_product",
+      "surrogate_key": "ProductKey",
+      "primary_key": ["ProductID"],
+      "load_type": "full",
+      "scd_type": "none",
+      "partition_column": null
+    },
+    {
+      "source_name": "customers",
+      "format": "csv",
+      "source_type": "github",
+      "source_file": "customers.csv",
+      "relative_path": "customers",
+      "bronze_table": "retail.bronze.customers",
+      "silver_table": "retail.silver.customers",
+      "gold_table": "retail.gold.dim_customer",
+      "surrogate_key": "CustomerKey",
+      "primary_key": ["CustomerID"],
+      "load_type": "incremental",
+       "incremental_type":"watermark",
+      "watermark_column": "LastUpdated",
+      "scd_type": "type2",
+      "scd_table": "retail.silver.customers_history",
+      "compare_columns": [
+        "FirstName",
+        "LastName",
+        "Email",
+        "Phone",
+        "City",
+        "State"
+      ],
+      "partition_column": null
+    },{
+      "source_name": "orders",
+      "format": "csv",
+      "source_type": "azure",
+      "source_file": "orders.csv",
+      "relative_path": "orders",
+      "bronze_table": "retail.bronze.orders",
+      "silver_table": "retail.silver.orders",
+      "gold_table": "retail.gold.fact_sales",
+      "primary_key": ["OrderID"],
+      "load_type": "incremental",
+      "incremental_type": "batch",
+      "partition_column": "OrderDate",
+      "scd_type": "none"
+    },
+    {
+      "source_name": "exchange_rates",
+      "format": "json",
+      "source_type": "github",
+      "source_file": "exchange_rates.json",
+      "relative_path": "exchange_rates",
+      "bronze_table": "retail.bronze.exchange_rates",
+      "silver_table": "retail.silver.exchange_rates",
+      "primary_key": [],
+      "load_type": "full",
+      "scd_type": "none",
+      "partition_column": null,
+      "flatten_json": true
+    }
+  ]
+}
